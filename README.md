@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋, I'm Akshit Kumar and I'm a Year 2 CS Student studying at Heriot Watt University, Dubai 🧑🏻‍💻.</h1>
+<h1 align="center">Hi👋, I'm Akshit Kumar and I'm a Year 3 CS Student studying at Heriot Watt University, Dubai 🧑🏻‍💻.</h1>
 <p align="left"></p>
 
 <h2> 🚀&nbsp;Software Tools that I have used and acquired tentative understanding:</h2>
