@@ -10,8 +10,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Wireshark_Logo.svg" alt="Wireshark" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/GNS3/gns3-gui/master/gns3/resources/images/gns3_logo.svg" alt="GNS3" width="45" height="45"/>
 </p>
 
 
