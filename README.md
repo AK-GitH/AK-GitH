@@ -11,8 +11,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Wireshark_Logo.svg" alt="Wireshark" width="45" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/GNS3_logo.svg" alt="GNS3" width="45" height="45"/>
+  <img src="https://gns3.com/assets/img/logo.png" alt="GNS3" width="45" height="45"/>
 </p>
+
 
 
 
