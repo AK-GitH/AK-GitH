@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋, I'm Akshit Kumar and I'm a Year 3 CS Student studying at Heriot Watt University, Dubai 🧑🏻‍💻.</h1>
+<h1 align="center">Hey there 👋, I'm Akshit Kumar — a CS student exploring the world of AI, Data Science, and innovative tech!</h1>
 <h2> 🚀&nbsp;Software Tools that I have used and acquired tentative understanding:</h2>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="45" height="45"/>
